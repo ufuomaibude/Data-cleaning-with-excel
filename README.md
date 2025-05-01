@@ -24,7 +24,7 @@ Common lesion locations include the face, back, chest, lips, and ears, with some
 
 ![SQL Queries for skin cancer](https://github.com/user-attachments/assets/9f26231d-508e-4616-b585-7f39f6bb73e0)
 
-Summary of Insights
+## Summary of Insights
 
 This dataset presents a multi-dimensional view of skin cancer, categorized by demographics, environmental exposure, and lesion characteristics to different types of skin cancer. 
 The skin cancer dataset shows that certain signs like bleeding, growing, and painful skin lesions are strong reasons why doctors decide to perform a biopsy. The size and where the lesion appear on the body also play a big role, especially if the lesion is large or in a visible area.
